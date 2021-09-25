@@ -1,7 +1,7 @@
 {
   "name": "discover-nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "NodeJS Crash Course GDG North Lebanon",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
